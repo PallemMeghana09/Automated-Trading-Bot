@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Automated Trading Bot",
+  "description": "A professional terminal for automated trading, backtesting strategies, risk controls, and AI market prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
