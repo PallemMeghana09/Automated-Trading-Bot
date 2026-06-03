@@ -1,4 +1,4 @@
-Automated Trading Bot
+# Automated Trading Bot
 
 A professional real-time trading station, terminal, and sandbox environment featuring automated algorithmic execution strategies, standard backtesting simulations, risk control alerts, and server-side AI-powered market sentiment analysis.
 
